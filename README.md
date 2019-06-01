@@ -1,2 +1,2 @@
 # java_examprogram
-exam program. design from java language
+exam program. design by java language
